@@ -30,10 +30,10 @@ This project provides dynamic filtering, charting, and statistical summaries —
 ## 📊 Screenshots
 | Feature | Preview |
 |:--------|:--------|
-| Column Selection | ![Column Selection](#) |
-| Bar Chart | ![Bar Chart](#) |
-| Line Chart | ![Line Chart](#) |
-| Correlation Table | ![Correlation Table](#) |
+| Column Selection | ![image](https://github.com/user-attachments/assets/d924ea11-211b-4e98-9469-918e358a0a01)|
+| Bar Chart | ![image](https://github.com/user-attachments/assets/99676ca3-7f92-46e0-bff5-1a493376a109)|
+| Line Chart |![image](https://github.com/user-attachments/assets/d08b8a3f-6707-4d16-ae7b-0692a88a34c2)|
+| Correlation Table |![image](https://github.com/user-attachments/assets/d796b934-053e-4bb1-8a3f-3c7df4f6ac97)|
 
 > (📸 *Tip: After deploying your app, replace the `#` with actual image links!*)
 
