@@ -1,8 +1,3 @@
-Of course!  
-Here’s a full **GitHub-style `README.md`** you can **copy and paste directly** into your project:
-
----
-
 # German Credit Data Explorer
 
 An interactive Streamlit web application to explore, visualize, and analyze the **German Credit Dataset**.  
